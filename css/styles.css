@@ -205,3 +205,31 @@ section {
 .projects-list {
   padding-bottom: 80px;
 }
+
+/* CASE STUDY */
+
+.case-study {
+  padding: 100px 0;
+}
+
+.case-study h1 {
+  font-size: 36px;
+  margin-bottom: 30px;
+}
+
+.case-section {
+  margin-bottom: 30px;
+}
+
+.case-section h2 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.case-section ul {
+  padding-left: 20px;
+}
+
+.case-section li {
+  margin-bottom: 8px;
+}
