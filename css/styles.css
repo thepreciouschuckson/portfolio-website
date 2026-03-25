@@ -262,3 +262,33 @@ section {
 .about li {
   margin-bottom: 8px;
 }
+
+/* CONTACT */
+
+.contact {
+  padding: 100px 0;
+}
+
+.contact p {
+  margin-bottom: 20px;
+}
+
+.contact-form {
+  max-width: 500px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  margin-bottom: 30px;
+}
+
+.contact-form input,
+.contact-form textarea {
+  padding: 12px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.contact-links p {
+  margin-bottom: 8px;
+}
